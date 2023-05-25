@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **bumee/bumee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Bumee-001266?style=plastic&logo=appveyor&logoColor=000100"/></a>
