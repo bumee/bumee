@@ -19,7 +19,7 @@
  
 <br>
 
-## 💻 DEV's log 💻
+<!-- ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="">
         <img src=""> 
@@ -27,7 +27,7 @@
     <a href="">
         <img src=""> 
     </a>
-</div><br>
+</div><br> -->
 
  
 ## 📞 Contact 📞
