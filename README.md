@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Bumee-001266?style=plastic&logo=appveyor&logoColor=000100"/></a>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumee&show_icons=true&theme=radical)
